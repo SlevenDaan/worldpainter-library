@@ -1,5 +1,5 @@
 # tropical archipelago
-![preview](./tropical_archipelago.png)
+![preview](./previews/tropical_archipelago.png)
 
 ## custom material layers
 1. flats (complex - blobs: 100):
